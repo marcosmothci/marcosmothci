@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  📚  Estudando atualmente: Javascript; Node; React; Typescript.
+  📚  Estudando atualmente:<strong> Javascript; Node; React; Typescript </strong>
 </p>
 
 <p align="left">
