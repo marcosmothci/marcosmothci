@@ -6,7 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>CSS; Javascript, Bootstrap, Node, React, Typescript.</strong>
+  🦄 Linguagens: <strong>HTML; CSS; Javascript; Bootstrap; Python</strong>
+</p>
+
+<p align="left">
+  🎸 Hobbies: <strong>Violão/Guitarra; Poker;  </strong>
+</p>
+
+<p align="left">
+  📚  Estudando atualmente: Javascript; Node; React; Typescript.
 </p>
 
 <p align="left">
