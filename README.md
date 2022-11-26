@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML; CSS; Javascript; Bootstrap; Python</strong>
+  🦄 Linguagens: <strong>HTML; CSS; Javascript; Bootstrap; Typescript, React, Material UI, Styled Components</strong>
 </p>
 
 <p align="left">
